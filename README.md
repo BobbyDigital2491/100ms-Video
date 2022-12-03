@@ -1,2 +1,2 @@
-# 100ms-Video
-Created with CodeSandbox
+# Pandamania Spaces 100ms-Video
+Created by Sokoni
